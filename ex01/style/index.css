@@ -1,0 +1,30 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  
+  .grid-container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+p.opis {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div.naslov {
+    text-align: left;
+    color: aqua;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+h2 {
+    color:brown;
+    text-align: center;
+}
